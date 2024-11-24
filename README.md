@@ -1,4 +1,4 @@
-# Dynamic Business Insights and Product Intelligence Through SQL Analytics
+# Dynamic Business Insights and Product Product Analytics Through SQL Analytics
 
 This project demonstrates the use of advanced SQL techniques to analyze and derive insights from various interconnected datasets. The data revolves around customer payment details, seller information, product specifics, order details, and product pricing. The objective is to explore, clean, and manipulate the data to generate actionable business insights, showcasing expertise in SQL joins, window functions, common table expressions (CTEs), and other advanced query techniques.
 
